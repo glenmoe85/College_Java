@@ -1,10 +1,4 @@
-Week 1 Lab
-
-Labs are arguably the most important part of the learning process when learning to program. Each week on this module you will be faced with labs, which are designed to take you out of your comfort zone and to begin programming. 
-
-You will get stuck, and that's ok!
-
-With programming, it's expected that you get stuck. How you deal with getting stuck is what's key. Be sure to post questions about the labs in the forums. The lab assistants and your fellow students will be there to help.
+Week 1 - Intro and Overview
 
 This week's lab contains a few different exercises and should take about 60 minutes.
 
