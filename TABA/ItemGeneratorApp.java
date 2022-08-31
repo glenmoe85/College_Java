@@ -1,6 +1,7 @@
 //Glenda Morris: x21110646
 //Higher Diploma in Science in Computing, Year 1, HDWD_SEPOL
 //Question 1b: Approach ID: MFNA1
+//Question 2b
 import javax.swing.JOptionPane;
 public class ItemGeneratorApp{
 	public static void main(String[] args){
